@@ -1,0 +1,19 @@
+.btn{
+	width: 300px;
+	height: 100px;
+	margin: 10px;
+	font-size: 30px;
+}
+#titleImg{
+	width: 500px;
+}
+body{
+	text-align: center;
+}
+@font-face {
+    font-family: myFont;
+    src: url("../font/myFont.ttf");
+}
+h1{
+	font-family: myFont;
+}
