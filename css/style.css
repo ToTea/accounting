@@ -1,11 +1,11 @@
 .btn{
-	width: 300px;
+	width: 80%;
 	height: 100px;
 	margin: 10px;
 	font-size: 30px;
 }
 #titleImg{
-	width: 500px;
+	width: 90%;
 }
 body{
 	text-align: center;
@@ -16,4 +16,8 @@ body{
 }
 h1{
 	font-family: myFont;
+}
+.form-control{
+	width: 90%;
+	margin: auto;
 }
