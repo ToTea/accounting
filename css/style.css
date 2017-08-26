@@ -24,3 +24,7 @@ h1{
 th{
 	text-align: center;
 }
+.little{
+	height: 40px;
+	font-size: 20px;
+}
